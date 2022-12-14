@@ -7,7 +7,7 @@
 
 import UIKit
 
-@UIApplicationMain
+@UIApplicationMain  
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     let appDIContainer = AppDIContainer()
